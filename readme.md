@@ -189,6 +189,7 @@ npm install concurrently
 
 ## 🧠 Catatan Tambahan
 - File `.env` bisa digunakan untuk menyimpan konfigurasi database dan port:
+
   ```
   PORT=5000
   DB_HOST=localhost
