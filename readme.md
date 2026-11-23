@@ -187,21 +187,6 @@ npm install concurrently
 
 ---
 
-## 🧠 Catatan Tambahan
-- File `.env` bisa digunakan untuk menyimpan konfigurasi database dan port:
-
-  ```
-  PORT=5000
-  DB_HOST=localhost
-  DB_USER=root
-  DB_PASS=
-  DB_NAME=siakad_db
-  ```
-- Kamu bisa ubah konfigurasi port backend di `backend/src/config/server.js`
-- Semua kode backend dan frontend modular, jadi mudah dikembangkan oleh tim besar.
-
----
-
 ## 💬 Kontribusi
 Jika ingin berkontribusi:
 1. Fork repository ini
